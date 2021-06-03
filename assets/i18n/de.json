@@ -16,6 +16,7 @@
   },
   "wallet": {
     "lightning": {
+      "get_invoice": "Rechnung erstellen",
       "short": "ln"
     },
     "onchain": {
